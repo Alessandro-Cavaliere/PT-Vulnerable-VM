@@ -5,6 +5,8 @@ This repository contains the final project for the Penetration Testing & Ethical
 
 The project consists of a Virtual Machine (VM), intentionally vulnerable ("vulnerable by design"), aimed at testing and improving users' cybersecurity skills. Given that penetration testing is a discipline requiring practical abilities, this VM offers a safe, practical platform to learn, test, and enhance cybersecurity skills while preparing users for real-world attack and defense scenarios.
 
+![Vulnerable VM Project](./readmePhotos/PENTEST.png)
+
 ## Services 
 All services hosted on the VM are detailed in the "/services" directory. `home.php` refers to level 2, while the other files all refer to level 1.
 
